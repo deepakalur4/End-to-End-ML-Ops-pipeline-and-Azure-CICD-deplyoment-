@@ -1,0 +1,4 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 967-716-628
+INFO:werkzeug:127.0.0.1 - - [14/May/2024 17:32:56] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2024 17:33:05] "POST /predict HTTP/1.1" 200 -

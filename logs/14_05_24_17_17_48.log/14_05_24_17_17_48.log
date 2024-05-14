@@ -1,0 +1,8 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 967-716-628
+INFO:werkzeug:127.0.0.1 - - [14/May/2024 17:17:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2024 17:17:59] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2024 17:17:59] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2024 17:17:59] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2024 17:17:59] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'E:\\Preparation_2024\\Syallabus\\ML\\End to End ML pipeline\\src\\utils.py', reloading

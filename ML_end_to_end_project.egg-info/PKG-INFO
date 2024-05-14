@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: ML-end-to-end-project
+Version: 0.0.0.5
+Author: Deepak S Alur
+Author-email: deepakalur4@gmail.com
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: numpy
+Requires-Dist: setuptools
